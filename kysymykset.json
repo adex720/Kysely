@@ -1,8 +1,142 @@
 {
   "kysymykset": [
     {
-      "teksti": "1+4",
+      "teksti": "Mikä on Ruotsin pääkaupunki?",
       "vaihtoehdot": [
+        {
+          "teksti": "Lontoo",
+          "oikein": false
+        },
+        {
+          "teksti": "Oslo",
+          "oikein": false
+        },
+        {
+          "teksti": "Tukholma",
+          "oikein": true
+        },
+        {
+          "teksti": "Kööppenhamina",
+          "oikein": false
+        }
+      ]
+    },
+    {
+      "teksti": "Kuinka monta kilometriä tunnissa on yhden metrin sekunttivauhti.",
+      "vaihtoehdot": [
+        {
+          "teksti": "2.75",
+          "oikein": false
+        },
+        {
+          "teksti": "3.2",
+          "oikein": false
+        },
+        {
+          "teksti": "3.6",
+          "oikein": true
+        },
+        {
+          "teksti": "4.0",
+          "oikein": false
+        }
+      ]
+    },
+    {
+      "teksti": "Millä nimellä divetyoksidi tunnetaan paremmin?",
+      "vaihtoehdot": [
+        {
+          "teksti": "Vesi",
+          "oikein": true
+        },
+        {
+          "teksti": "Salmiakki",
+          "oikein": false
+        },
+        {
+          "teksti": "Sokeri",
+          "oikein": false
+        },
+        {
+          "teksti": "Suola",
+          "oikein": false
+        }
+      ]
+    },
+    {
+      "teksti": "Millä sanoilla alkaa Väinö Linnan romaani Täällä Pohjantähden alla?",
+      "vaihtoehdot": [
+        {
+          "teksti": "Koskelan torpassa, metsien keskellä",
+          "oikein": false
+        },
+        {
+          "teksti": "Aurinko oli jo painunut puiden taakse",
+          "oikein": false
+        },
+        {
+          "teksti": "Kaukana Pohjoisessa pieness kylässä",
+          "oikein": false
+        },
+        {
+          "teksti": "Alussa oli suo, kuokka - ja Jussi",
+          "oikein": true
+        }
+      ]
+    },
+    {
+      "teksti": "6+4*7",
+      "vaihtoehdot": [
+        {
+          "teksti": "24",
+          "oikein": false
+        },
+        {
+          "teksti": "34",
+          "oikein": true
+        },
+        {
+          "teksti": "70",
+          "oikein": false
+        },
+        {
+          "teksti": "74",
+          "oikein": false
+        }
+      ]
+    },
+    {
+      "teksti": "Kuinka monta kilogrammaa painaa yksi litra vettä?",
+      "vaihtoehdot": [
+        {
+          "teksti": "0.78",
+          "oikein": false
+        },
+        {
+          "teksti": "1.0",
+          "oikein": true
+        },
+        {
+          "teksti": "1.4",
+          "oikein": false
+        },
+        {
+          "teksti": "1.67",
+          "oikein": false
+        }
+      ]
+    },
+    {
+      "teksti": "Kuinka monta itsehallintoaluetta Suomessa on?",
+      "vaihtoehdot": [
+        {
+          "teksti": "0",
+          "oikein": false
+        },
+        {
+          "teksti": "1",
+          "oikein": true
+        },
         {
           "teksti": "2",
           "oikein": false
@@ -10,55 +144,89 @@
         {
           "teksti": "3",
           "oikein": false
-        },
+        }
+      ]
+    },
+    {
+      "teksti": "Millä kielellä on eniten äidinkielenä kieltä puhuvia ihmisiä?",
+      "vaihtoehdot": [
         {
-          "teksti": "4",
+          "teksti": "Englannilla",
           "oikein": false
         },
         {
-          "teksti": "5",
+          "teksti": "Espanjalla",
+          "oikein": false
+        },
+        {
+          "teksti": "Ranskalla",
+          "oikein": false
+        },
+        {
+          "teksti": "Mandariinikiinalla",
           "oikein": true
         }
       ]
     },
     {
-      "teksti": "2+4",
+      "teksti": "Kuinka monta tavua on yksi kilotavu?",
       "vaihtoehdot": [
         {
-          "teksti": "4",
+          "teksti": "1000",
           "oikein": false
         },
         {
-          "teksti": "5",
+          "teksti": "1010",
           "oikein": false
         },
         {
-          "teksti": "6",
+          "teksti": "1028",
           "oikein": true
         },
         {
-          "teksti": "7",
+          "teksti": "2500",
           "oikein": false
         }
       ]
     },
     {
-      "teksti": "7-3",
+      "teksti": "Mitä lukua binääriluku 1001010 esittää?",
       "vaihtoehdot": [
         {
-          "teksti": "4",
+          "teksti": "54",
+          "oikein": false
+        },
+        {
+          "teksti": "69",
+          "oikein": false
+        },
+        {
+          "teksti": "74",
           "oikein": true
         },
         {
+          "teksti": "82",
+          "oikein": false
+        }
+      ]
+    },
+    {
+      "teksti": "Kuinka monta millilitraa on yhdessä teelusikassa?",
+      "vaihtoehdot": [
+        {
           "teksti": "5",
+          "oikein": true
+        },
+        {
+          "teksti": "10",
           "oikein": false
         },
         {
-          "teksti": "6",
+          "teksti": "15",
           "oikein": false
         },
         {
-          "teksti": "7",
+          "teksti": "20",
           "oikein": false
         }
       ]
