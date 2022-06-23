@@ -5574,10 +5574,13 @@
       var t1;
       type$.legacy_MouseEvent._as(e);
       t1 = this.elementti;
-      if (A.boolConversionCheck(A._asBoolS(J.$index$asx(this.vaihtoehto, "oikein"))))
+      if (A.boolConversionCheck(A._asBoolS(J.$index$asx(this.vaihtoehto, "oikein")))) {
         B.DivElement_methods.set$text(t1, "oikein!");
-      else
+        t1.className = "vaihtoehto-oikein";
+      } else {
         B.DivElement_methods.set$text(t1, "v\xe4\xe4rin!");
+        t1.className = "vaihtoehto-vaarin";
+      }
     },
     $signature: 4
   };
