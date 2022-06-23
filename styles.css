@@ -19,6 +19,22 @@ body {
     margin: 1rem;
 }
 
+.vaihtoehto-oikein {
+    background-color: green;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.vaihtoehto-vaarin {
+    background-color: red;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
 .vaihtoehto:hover {
     background-color: lightskyblue;
 }
